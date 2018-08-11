@@ -14,5 +14,5 @@ Moving from ASP.NET Webforms to client side JavaScript has never been easier!
 
 ```
  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js" type="text/javascript"></script>
- <script src="oystertoad.js" type="text/javascript"></script>
+ <script src="https://raw.githubusercontent.com/EricRohlfs/OysterToad/master/src/oystertoad.js" type="text/javascript"></script>
 ```
