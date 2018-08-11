@@ -1,8 +1,6 @@
 ![alt text](https://raw.githubusercontent.com/ericrohlfs/oystertoad/master/images/oyster_toad.png)
 
 # OysterToad
-A drop-in solution for upgrading ASP.NET Webforms to Vue.js
-
 Moving from ASP.NET Webforms to client side JavaScript has never been easier!
 
 
