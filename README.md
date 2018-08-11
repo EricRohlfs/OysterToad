@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="260px" src="https://raw.githubusercontent.com/EricRohlfs/oystertoad/master/images/oyster_toad.png"/>
-</p>
+![alt text](https://raw.githubusercontent.com/ericrohlfs/oystertoad/master/images/oyster_toad.png)
 
 # OysterToad
 A drop-in solution for upgrading ASP.NET Webforms to Vue.js
