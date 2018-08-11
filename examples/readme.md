@@ -1,5 +1,7 @@
 # Examples
 
+Even though this project is a primarily a joke, it really does work.
+
 ## Running the Examples
 
 1. Clone the repo
