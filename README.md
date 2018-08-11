@@ -15,6 +15,11 @@ Moving from ASP.NET Webforms to client side JavaScript has never been easier!
  <script src="https://rawgit.com/EricRohlfs/OysterToad/master/src/oystertoad.js" type="text/javascript"></script>
 ```
 
+## Items of Interest
+
+* [Supported tags](src/oystertoad.js)
+* [Examples](examples/readme.md)
+
 
 ## Project Name
 
