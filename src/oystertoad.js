@@ -6,6 +6,12 @@
 * Released under the MIT license
 *
 * Date: 2018-08-11
+*
+* Supported tags:
+* asp:image
+* asp:label
+* asp:textbox
+* asp:button
 */
 
 Vue.component('asp-image', {
