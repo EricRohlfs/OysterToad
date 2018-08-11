@@ -23,4 +23,4 @@ Moving from ASP.NET Webforms to client side JavaScript has never been easier!
 
 ## Project Name
 
-Fisherman of the Chesapeakbay believe catching an oystertoad a sign of good luck and if you are using this project, you need some luck.
+Fisherman of the Chesapeakbay believe catching an oystertoad a sign of good luck and if you are using this project you need some luck.
