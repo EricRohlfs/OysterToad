@@ -10,6 +10,7 @@ Moving from ASP.NET Webforms to client side JavaScript has never been easier!
 2. Add Vue and Oyster links to the bottom of your .aspx.html page.
 
 ```
+ </html>
  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js" type="text/javascript"></script>
  <script src="https://rawgit.com/EricRohlfs/OysterToad/master/src/oystertoad.js" type="text/javascript"></script>
 ```
