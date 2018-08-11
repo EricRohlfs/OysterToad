@@ -1,10 +1,10 @@
 # OysterToad
 A drop-in solution for upgrading ASP.NET Webforms to Vue.js
 
-Moving from server side Webforms for client side JavaScript has never been easier.
+Moving from ASP.NET Webforms to client side JavaScript has never been easier!
 
 
-## Usage
+## Two Simple Steps
 
 _1. Add .html to the end of your .aspx file.
 
