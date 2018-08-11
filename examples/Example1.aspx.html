@@ -1,0 +1,35 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Example1.aspx.cs" Inherits="WebApplication5.Example1" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:asp="aspnet">
+<head runat="server">
+    <title></title>
+    <script type="text/javascript">
+        var SubmitBtn_Click = function () {
+            alert('Button Clicked');
+        }
+    </script>
+</head>
+<body>
+    <asp:Form id="form1" runat="server">
+        <h2>OysterToad Example Page</h2>
+        <div>
+            <asp:Label ID="Label1" Text="Label Control:" runat="server" AssociatedControlId="TextBox1" ></asp:Label>
+            <asp:TextBox ID="TextBox1" runat="server" Text="Hello"></asp:TextBox>
+            <br />
+            <asp:Button ID="Button1" runat="server" Text="Submit" OnClick="SubmitBtn_Click()" ></asp:Button>
+        </div>
+        <div><br /><br /></div>
+        <div>
+            <asp:Image CssClass="bordered" ID="Image1" runat="server" ImageUrl="oyster_toad.png" ></asp:Image>
+            <br />
+            Oyster Toadfish by Peter Meyer
+        </div>
+    </asp:Form>
+</body> 
+</html>
+ <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js" type="text/javascript"></script>
+ <script src="oystertoad.js" type="text/javascript"></script>
+
+ 
+   
