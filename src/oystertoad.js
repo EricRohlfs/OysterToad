@@ -33,7 +33,7 @@ Vue.component('asp-button', {
     codeBehind = document.querySelector("body").childNodes[0];
     codeBehind.parentNode.removeChild(codeBehind)
 
-    //convert asp:tagName to asp-tagname
+    //convert asp:tagName to asp-tagname (vue does not support namespaces)
     formId = document.getElementsByTagNameNS("http://www.w3.org/1999/xhtml", "asp:form")[0].getAttribute('id');
     newContent = document.querySelector('#' + formId).innerHTML.replace(/asp:/gi, 'asp-');
     var form2 = Vue.compile('<div>'+ newContent + '</div>');
