@@ -14,11 +14,11 @@ With OysterToad asp tags now render as client side components instead of server 
 
 ## Migrate in two and a half simple steps 
 
-1. Add .html to the end of your .aspx filename.
+* Add .html to the end of your .aspx filename.
 
-2. Add Vue and Oyster links to the bottom of your .aspx.html page.
+* Add Vue and Oyster links to the bottom of your .aspx.html page.
 
-  2.5 Test
+ * Test
 
 ```
  </html>
