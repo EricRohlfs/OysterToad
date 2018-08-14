@@ -2,19 +2,23 @@
 
 # OysterToad
 
-Are you an ASP.NET WebFroms expert?
+Are you an ASP.NET WebForms developer?
 
 Are you being asked to upgrade to ASP.NET Core or a more 'popular' front end framework like Angular, React, Vue, or Polymer?
 
 Don't throw all that experience and legacy code away!  
 
-Before you re-write, checkout OysterToad the drop in lightweight polyfill for WebForms.
+Before you re-write, migrate using OysterToad the drop in lightweight polyfill for WebForms.  
 
-## Instructions 
+With OysterToad asp tags now render as client side components instead of server side components. 
+
+## Migrate In Two and a half Simple Steps 
 
 1. Add .html to the end of your .aspx filename.
 
 2. Add Vue and Oyster links to the bottom of your .aspx.html page.
+
+2.5 Test
 
 ```
  </html>
