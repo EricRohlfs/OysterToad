@@ -18,7 +18,7 @@ With OysterToad asp tags now render as client side components instead of server 
 
 2. Add Vue and Oyster links to the bottom of your .aspx.html page.
 
-2.5 Test
+  2.5 Test
 
 ```
  </html>
