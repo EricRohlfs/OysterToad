@@ -18,13 +18,13 @@ With OysterToad asp tags now render as client side components instead of server 
 
 * Add Vue and Oyster links to the bottom of your .aspx.html page.
 
- * Test
-
 ```
  </html>
  <script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js" type="text/javascript"></script>
  <script src="https://rawgit.com/EricRohlfs/OysterToad/master/src/oystertoad.js" type="text/javascript"></script>
 ```
+
+* Debug any potential issues
 
 ## Items of Interest
 
