@@ -12,7 +12,7 @@ Before you re-write, migrate using OysterToad the drop in lightweight polyfill f
 
 With OysterToad asp tags now render as client side components instead of server side components. 
 
-## Migrate In Two and a half Simple Steps 
+## Migrate in two and a half simple steps 
 
 1. Add .html to the end of your .aspx filename.
 
