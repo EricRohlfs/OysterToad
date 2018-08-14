@@ -1,9 +1,16 @@
 ![alt text](https://raw.githubusercontent.com/ericrohlfs/oystertoad/master/images/oyster_toad.png)
 
 # OysterToad
-Moving from ASP.NET Webforms to client side JavaScript has never been easier!
 
-## Two Simple Steps
+Are you an ASP.NET WebFroms expert?
+
+Are you being asked to upgrade to ASP.NET Core or a more 'popular' front end framework like Angular, React, Vue, or Polymer?
+
+Don't throw all that experience and legacy code away!  
+
+Before you re-write, checkout OysterToad the drop in lightweight polyfill for WebForms.
+
+## Instructions 
 
 1. Add .html to the end of your .aspx filename.
 
@@ -24,3 +31,13 @@ Moving from ASP.NET Webforms to client side JavaScript has never been easier!
 ## Project Name
 
 Fisherman of the Chesapeakbay believe catching an oystertoad a sign of good luck and if you are using this project you need some luck.
+
+
+## Sense of Humor
+
+Please bring your sense of humor with you while you use this product.
+
+## Contributors Wanted
+
+Contributors are wanted to add support for more tag.
+Please ensure added tags render the same as they do in WebFroms.
