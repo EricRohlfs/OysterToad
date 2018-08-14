@@ -32,12 +32,7 @@ Before you re-write, checkout OysterToad the drop in lightweight polyfill for We
 
 Fisherman of the Chesapeakbay believe catching an oystertoad a sign of good luck and if you are using this project you need some luck.
 
-
-## Sense of Humor
-
-Please bring your sense of humor with you while you use this product.
-
 ## Contributors Wanted
 
-Contributors are wanted to add support for more tag.
+Contributors are wanted to add support for more tags.
 Please ensure added tags render the same as they do in WebFroms.
